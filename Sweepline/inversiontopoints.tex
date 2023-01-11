@@ -1,0 +1,22 @@
+\begin{center}
+    \begin{tikzpicture}[x=1cm, y=1cm, >=stealth]
+        \draw[->] (-0.25,0) -- (5,0)
+            node [right] {$x$};
+        \draw[->] (0,-0.25) -- (0,5)
+            node [above] {$y$};
+        
+        \node[fill=gray, circle, draw] (1) at (1,4) {};
+        \node[fill=gray, circle, draw] (2) at (2,2) {};
+        \node[fill=gray, circle, draw] (3) at (3,3) {};
+        \node[fill=gray, circle, draw] (4) at (4,1) {};
+
+        \draw [->, gray] (1) -- (2);
+        \draw [->, gray] (1) -- (3);
+        \draw [->, gray] (1) -- (4);
+        \draw [->, gray] (3) -- (4);
+    \end{tikzpicture}
+    \captionof{figure}{نقاط و نابه‌جایی‌های جایگشت
+    $p = \langle 4, 2, 3, 1 \rangle$
+    } 
+    \label{fig:your Label}
+\end{center}
