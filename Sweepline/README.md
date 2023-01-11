@@ -5,13 +5,8 @@
 * [General Info](#general-information)
 * [Requirements](#requirements)
 * [Problems](#problems)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Support Notes](#support-notes)
 * [External Links](#external-links)
+* [Todo](#todo)
 * [Contact](#contact)
 
 
@@ -38,8 +33,8 @@ List the ready features here:
 - [Geometry::Sweepline](https://www.topcoder.com/thrive/articles/Line%20Sweep%20Algorithms)
 
 ## TODO
-- [] Add More Problems
-- [] Translate Topcoder
+- [ ] Add More Problems
+- [ ] Translate Topcoder
 
 
 ## Contact
