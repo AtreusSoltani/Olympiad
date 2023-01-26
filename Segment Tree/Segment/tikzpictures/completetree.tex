@@ -1,0 +1,30 @@
+\usetikzlibrary{trees}
+
+\begin{center}
+\begin{tikzpicture}[level distance=1.5cm,
+  level 1/.style={sibling distance=6cm},
+  level 2/.style={sibling distance=3cm},
+  level 3/.style={sibling distance=1.5cm}]
+  \node{$1$}
+    child {node {$2$}
+      child {node {$4$}
+        child {node {$8$}}
+        child {node {$9$}}
+      }
+      child {node {$5$}
+        child {node {$10$}}
+        child {node {$11$}}        
+      }
+    }
+    child {node {$3$}
+      child {node {$6$}
+        child {node {$12$}}
+        child {node {$13$}}
+      }
+      child {node {$7$}
+        child {node {$14$}}
+        child {node {$15$}}        
+      }
+    };
+\end{tikzpicture}
+\end{center}
