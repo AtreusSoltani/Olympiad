@@ -1,40 +1,31 @@
-# Sweepline
-> Imagine you have a vertical line that "sweeps" the plane from left to right. That's the main idea behind the sweep line.
+# Segment Tree
+> A Segment Tree is a data structure that stores information about array intervals as a tree.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Requirements](#requirements)
-* [Problems](#problems)
-* [External Links](#external-links)
-* [Todo](#todo)
-* [Contact](#contact)
+- [Segment Tree](#segment-tree)
+  - [Table of Contents](#table-of-contents)
+  - [Problems](#problems)
+  - [External Links](#external-links)
+  - [TODO](#todo)
+  - [Contact](#contact)
 
 
-## General Information
-The idea behind algorithms of this type is to imagine that a line (often a vertical line) is swept or moved across the plane, stopping at some points. Geometric operations are restricted to geometric objects that either intersect or are in the immediate vicinity of the sweep line whenever it stops, and the complete solution is available once the line has passed over all objects.
-
-
-## Requirements
-- Segment Tree
 
 ## Problems
 List the ready features here:
-- [Beautiful People](https://codeforces.com/problemsets/acmsguru/problem/99999/199)
-- [Ball](https://codeforces.com/contest/12/problem/D)
-- [Little Elephant and Tree](https://codeforces.com/contest/258/problem/E)
-- [Modern Art](http://www.usaco.org/index.php?page=viewproblem2&cpid=744)
-- [Rectangle Union](https://www.spoj.com/problems/AREAU/)
-- [تبلیغات میدانی](https://quera.org/problemset/8943/)
-
-
+- [Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D)
+- [Knight Tournament](https://codeforces.com/contest/356/problem/A)
+- [Pashmak and Parmida's Problem](https://codeforces.com/contest/459/problem/D)
 
 ## External Links
 
-- [Geometry::Sweepline](https://www.topcoder.com/thrive/articles/Line%20Sweep%20Algorithms)
+- [Codeforces Education](https://codeforces.com/edu/course/2/lesson/4)
+- [Segment Tree Problems](https://codeforces.com/blog/entry/22616)
 
 ## TODO
 - [ ] Add More Problems
-- [ ] Translate Topcoder
+- [ ] Add More External Links
+- [ ] Add More Feature on Segment
 
 
 ## Contact
