@@ -16,10 +16,11 @@ In this tutorial we will walk through multiple types of square root decompositio
 
 
 ## Problems
+### Decomposition
 - [Sereja and Squares](https://codeforces.com/contest/425/problem/D)
 - [GukiZ and GukiZiana](https://codeforces.com/contest/551/problem/E)
 - [Holes](https://codeforces.com/problemset/problem/13/E)
-- [XOR and Favorite Number](https://codeforces.com/contest/617/problem/E)
+- [Conveyor Belts](https://codeforces.com/contest/487/problem/D)
 - [Serega and Fun](https://codeforces.com/problemset/problem/455/D)
 - [Nagini](https://codeforces.com/contest/855/problem/F)
 - [Tricky Password](https://codeforces.com/contest/418/problem/E)
@@ -28,6 +29,26 @@ In this tutorial we will walk through multiple types of square root decompositio
 - [Isolation](https://codeforces.com/contest/1129/problem/D)
 - [Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)
 - [Yuezheng Ling and Dynamic Tree](https://codeforces.com/problemset/problem/1491/H)
+- [Welcome home Chtholly](https://codeforces.com/problemset/problem/896/E)
+- [The Awesomest Vertex](https://codeforces.com/contest/1178/problem/G)
+### MO's Comparator
+- [Liitle Elephant and Array](https://codeforces.com/contest/220/problem/B)
+- [Powerful Array](https://codeforces.com/contest/86/problem/D)
+- [Tree and Queries](https://codeforces.com/contest/375/problem/D)
+- [XOR and Favorite Number](https://codeforces.com/contest/617/problem/E)
+- [Destiny](https://codeforces.com/contest/840/problem/D)
+### Heavy Light
+- [Vanya and Treasure](https://codeforces.com/contest/677/problem/D)
+- [Time to Raid Cowavans](https://codeforces.com/contest/103/problem/D)
+- [Containers](https://szkopul.edu.pl/problemset/problem/oNnWY6ZuzzhvG-jCmijiXkIk/site/?key=statement)
+- [Train Maintenance](https://codeforces.com/contest/1580/problem/C)
+- [Propagation](https://atcoder.jp/contests/abc219/tasks/abc219_g)
+- [Subset Sums](https://codeforces.com/contest/348/problem/C)
+- [Instant Messanger](https://codeforces.com/contest/398/problem/D)
+### Query Decomposition
+- [Xenia and Tree](https://codeforces.com/contest/342/problem/E)
+- [The Tree](https://codeforces.com/contest/1017/problem/G)
+- [May Holidays](https://codeforces.com/contest/925/problem/E)
 
 ## External Links
 
