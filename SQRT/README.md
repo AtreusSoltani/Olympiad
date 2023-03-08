@@ -20,7 +20,7 @@ In this tutorial we will walk through multiple types of square root decompositio
 - [GukiZ and GukiZiana](https://codeforces.com/contest/551/problem/E)
 - [Holes](https://codeforces.com/problemset/problem/13/E)
 - [XOR and Favorite Number](https://codeforces.com/contest/617/problem/E)
-- [Serega and Fun[(https://codeforces.com/problemset/problem/455/D)
+- [Serega and Fun](https://codeforces.com/problemset/problem/455/D)
 - [Nagini](https://codeforces.com/contest/855/problem/F)
 - [Tricky Password](https://codeforces.com/contest/418/problem/E)
 - [Mass Change Queries](https://codeforces.com/problemset/problem/911/G)
